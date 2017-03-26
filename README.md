@@ -12,7 +12,7 @@ is the technique by which we identify promising subproblems. We hope that in the
 we will have the opportunity to pursue this idea at length.
 
 
-# Coming soon:
+# Todo list:
 - [ ] Redesign in a more object-oriented fashion
   - [ ] Create a permutation generator class. Construct and run it once in main().
   - [ ] Move global data into object state and make helper functions private.
